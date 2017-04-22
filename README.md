@@ -1,5 +1,5 @@
 # pyquora
-###random edits
+### random edits
 #### Note: Parts of this library are broken due to changes on Quora's end. Issues and pull requests welcome.
 
 [![Build Status](https://travis-ci.org/csu/pyquora.svg?branch=master)](https://travis-ci.org/csu/pyquora) [![Code Coverage](https://img.shields.io/codecov/c/github/csu/pyquora.svg)](https://codecov.io/gh/csu/pyquora)
